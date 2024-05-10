@@ -10,7 +10,7 @@ Utilizando inteligência artificial (IA) de última geração, o Roteiro Mágico
 
 - **Gemini**
 - **Python**
-- **Colaboratory**
+- **Colab**
 
 ## Funcionalidades
 
@@ -34,10 +34,11 @@ Utilizando inteligência artificial (IA) de última geração, o Roteiro Mágico
 
 ## Comece sua jornada
 
-1. Acesse o site do Roteiro Mágico.
-2. Crie uma conta gratuita.
-3. Envie uma foto do destino que você imagina.
-4. Informe a quantidade de dias que deseja viajar.
-5. O sistema gerará um roteiro personalizado para você.
+1. Abrir este código fonte no colab.
+2. Configure sua API Key.
+3. Execute o programa
+4. Envie uma foto do destino que você imagina.
+5. Informe a quantidade de dias que deseja viajar.
+6. O sistema gerará um roteiro personalizado para você.
 
 **Roteiro Mágico: Sua chave para viagens inesquecíveis!**
