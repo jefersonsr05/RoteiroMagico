@@ -42,3 +42,7 @@ Utilizando inteligência artificial (IA) de última geração, o Roteiro Mágico
 6. O sistema gerará um roteiro personalizado para você.
 
 **Roteiro Mágico: Sua chave para viagens inesquecíveis!**
+
+
+![Texto alternativo](RoteiroMagico.png)
+
