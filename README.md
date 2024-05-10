@@ -46,3 +46,5 @@ Utilizando inteligência artificial (IA) de última geração, o Roteiro Mágico
 
 ![Texto alternativo](RoteiroMagico.png)
 
+![Texto alternativo](RoteiroMagicoResposta.png)
+
